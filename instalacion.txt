@@ -1,0 +1,21 @@
+Indicaciones para la instalación y despliegue del proyecto con las acciones y comandos SSH, GIT
+
+Paso 1: Crear contraseña - En CDMON en host Alojamiento para desarrolladores -- Modificar clave de acceso -- Modificar datos
+
+Paso 2: Conectarse al servidor via SSH 
+      	ssh mcain8355@134.0.11.190 password: GRUPO0DAW24
+
+Paso 3: Ejecutar: pwd para ver en que ruta estamos 
+	cd..
+	cd web
+
+Paso 4: Clonar repositorio
+      	git clone https://github.com/Pabloluma/GRUPO0DAW24.git 
+
+Meter en carpeta GRUPO0DAW24 y push a GITHUB
+
+Usuario CDMON: RafaelRomero
+Clave CDMON:17Jul1977*
+
+
+
