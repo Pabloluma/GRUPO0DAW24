@@ -1,6 +1,6 @@
 Integrante 2:
 
-El integrante 2 indica que no se pudo publicar el contenido de GITHUB en un hosting CDMON de uno de los integrantes. Se pedía realizar mediante SSH + comandos GIT el despliegue en su hosting en una carpeta específica para el proyecto. Al intentarlo salía conexión cerrada. Al usar en una terminal el comando de conexion ssh usuario @ ip del servidor del hosting compartido.
+El integrante 2 indica que no se pudo publicar el contenido de GITHUB en un hosting CDMON de uno de los integrantes. Se pedía realizar mediante SSH + comandos GIT el despliegue en su hosting en una carpeta específica para el proyecto. Al intentarlo salía conexión cerrada. Al usar en una terminal el comando de conexión ssh usuario @ ip del servidor del hosting compartido.
  
 Así que se decidió hacer el clone en mi ordenador en lugar de en CDMON y luego con Filezilla pasarlos del ordenador a CDMON, creando a continuación las carpetas js e images  (que no se clonaron al estar vacias).
 Por lo demás la veo una práctica instructiva e interesante. Me he enterado por fin de Github, que otros profesores habían explicado pero no me había quedado nada claro y además integrando esto con un hosting, lo cual es muy interesante.
