@@ -7,3 +7,6 @@ Por lo demás la veo una práctica instructiva e interesante. Me he enterado por
 También se agradece que la práctica no precise tantas horas ya que entre exámenes y prácticas de otras asignaturas no se dispone de mucho tiempo.
 
 
+Integrante 3:
+
+El integrante 3 indica, mi tarea ha tratado de tomar el controlador, he realizado el pull a mi dispositivo, tras esto he realizado los cambios en el config.php para que pueda conectar con la BBDD. Una vez realizados los cambios he realizado un push al repositorio creado por Pablo.
