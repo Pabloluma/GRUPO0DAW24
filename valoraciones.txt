@@ -1,3 +1,7 @@
+Integrante 1:
+
+La tarea que he tenido que realizar ha sido crear el repositorio en github y subir los ficheros de la vista necesarios para que pueda realizar el integrante 2 su tarea.
+
 Integrante 2:
 
 El integrante 2 indica que no se pudo publicar el contenido de GITHUB en un hosting CDMON de uno de los integrantes. Se pedía realizar mediante SSH + comandos GIT el despliegue en su hosting en una carpeta específica para el proyecto. Al intentarlo salía conexión cerrada. Al usar en una terminal el comando de conexión ssh usuario @ ip del servidor del hosting compartido.
